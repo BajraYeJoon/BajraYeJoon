@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+👋;This+is+Binaya+Bajra;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 - 👋 Hi, I’m @binayabajracharya
 - 👀 I’m interested in Full Stack Development
