@@ -7,7 +7,8 @@
 </h1>
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<a href="https://app.daily.dev/binayabajra"><img src="https://api.daily.dev/devcards/96a86dbe462848d89d06fbe28606b468.png?r=681" width="400" alt="Binaya Bajracharya's Dev Card"  align="right"/></a>
 
 
 - 👋 Hi, I’m @binayabajracharya
@@ -56,6 +57,5 @@
   
  
   
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=BajraYeJoon&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 </p>
