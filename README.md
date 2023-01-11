@@ -8,7 +8,7 @@
 
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bajrayejoon/bajrayejoon/blob/master/devcard.svg" width="400" alt="Binaya Bajracharya's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bajrayejoon/bajrayejoon/blob/main/devcard.svg" width="400" alt="Binaya Bajracharya's Dev Card" align="right"/></a>
 
 
 - 👋 Hi, I’m @binayabajracharya
