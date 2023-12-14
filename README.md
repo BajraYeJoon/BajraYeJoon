@@ -46,6 +46,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://github.com/bajrayejoon/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BajraYeJoon&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+   <br />
+   <br />
+   
+[![](https://github-readme-activity-graph.vercel.app/graph?username=bajrayejoon&bg_color=1f1f1f&color=7aa2ff&line=009de0&point=00eeff&area=true&hide_border=true)]
+ 
+
+   
  <br><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bajrayejoon&theme=darkhub" alt="dfsdf" /></a>
   </div>
