@@ -8,14 +8,22 @@
 
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<a href="https://app.daily.dev/binayabajra"><img src="https://github.com/BajraYeJoon/BajraYeJoon/blob/main/devcard.png" width="356" alt="Binaya Bajracharya's Dev Card"/></a>
+<div style="display:flex; flex-direcion:row;">
+ <div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Binaya Bajracharya
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Binaya Bajracharya
 ==========================================================================================================================================
-
+ 
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning ReactJS, Node.js, MongoDB RESTApi and Backend as well.
 - 💞️ I’m looking to collaborate on Open-source project and team where I can excel
+</div>
+<div>
+<a href="https://app.daily.dev/binayabajra"><img src="https://github.com/BajraYeJoon/BajraYeJoon/blob/main/devcard.png" width="356" alt="Binaya Bajracharya's Dev Card"/></a>
+</div>
+</div>
+
+
 
 ### Skills
 
