@@ -8,7 +8,7 @@
 
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bajrayejoon/bajrayejoon/blob/main/devcard.svg" width="400" alt="Binaya Bajracharya's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/binayabajra"><img src="https://github.com/BajraYeJoon/BajraYeJoon/blob/main/devcard.png" width="356" alt="Binaya Bajracharya's Dev Card"/></a>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Binaya Bajracharya
 ==========================================================================================================================================
