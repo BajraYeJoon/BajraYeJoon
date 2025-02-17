@@ -18,6 +18,8 @@
   </a>
 </div>
 
+
+
 <!-- About Section -->
 <div style="background: #1c1c1e; border-radius: 32px; padding: 24px; margin: 24px 0;">
   <h3 align="center" style="font-family: 'SF Pro Display', sans-serif; color: #6F9EFF;">About Me</h3>
@@ -25,6 +27,7 @@
   <p align="center" style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: 20px auto;">
     Full Stack Developer crafting seamless digital experiences. Exploring modern web technologies with a passion for innovation and clean code architecture.
   </p>
+  
 
   <p align="center">
     🔭 Currently mastering the <b>MERN Stack</b><br>
@@ -33,6 +36,16 @@
     💡 Ask me about <b>JavaScript</b>, <b>React</b>, <b>Node.js</b>, or <b>Web Development</b>
   </p>
 </div>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BajraYeJoon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/BajraYeJoon"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 <!-- Tech Stack -->
 <div style="background: linear-gradient(180deg, #3a3a3c 0%, #1c1c1e 100%); border-radius: 32px; padding: 24px; margin: 24px 0;">
