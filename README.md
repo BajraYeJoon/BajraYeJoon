@@ -19,6 +19,13 @@
 </div>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BajraYeJoon/BajraYeJoon/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BajraYeJoon/BajraYeJoon/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BajraYeJoon/BajraYeJoon/dist/github-snake.svg" />
+</picture>
+
+
 
 <!-- About Section -->
 <div style="background: #1c1c1e; border-radius: 32px; padding: 24px; margin: 24px 0;">
